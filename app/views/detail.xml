@@ -1,0 +1,14 @@
+<Alloy>
+	<Window title="Tweet">
+		<View class="wrap">
+			<ImageView id="image" />
+			<Label id="name" />
+			<WebView id="html" />
+		</View>
+		<View class="test">
+			<Label platform="ios" class="test" id="ios">I am iOS</Label>
+			<Label platform="android" class="test">I am Android</Label>
+			<Label formFactor="tablet" class="test">I am a tablet</Label>
+		</View>
+	</Window>
+</Alloy>

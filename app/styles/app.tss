@@ -1,0 +1,13 @@
+"#image": {
+	top: 10, left: 10,
+	width: 50, height: 50
+}
+
+"#name": {
+	top: 10, left: 70, right: 10,
+
+	font: {
+		fontSize: 14
+	},
+	color: "#999"
+}

@@ -1,0 +1,7 @@
+<Alloy>
+	<Window>
+		<NavigationGroup id="navgroup">
+			<Require src="table" />
+		</NavigationGroup>
+	</Window>
+</Alloy>

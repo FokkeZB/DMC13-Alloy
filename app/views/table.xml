@@ -1,0 +1,5 @@
+<Alloy>
+	<Window title="Twitter">
+		<TableView id="tableView" onClick="showDetail" />
+	</Window>
+</Alloy>
