@@ -1,1 +1,5 @@
 This example Alloy app was build during the Tutorial Day of Dutch Mobile Conference (http://mobileconference.nl) 2013 to show some basic Alloy.
+
+It shows a Twitter timeline, pulled from a local JSON file for the sake of being able to demo it offline.
+
+You can click a tweet to open a detail view in the navigation group. On the detail view, the tweet is displayed in a webview and clicks on links, mentions and hashtags are captured to open them in Mobile Safari.
